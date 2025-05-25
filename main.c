@@ -39,8 +39,6 @@ int main()
     float averages[5];
 
     //Asks the user to enter the names and 13 scores for each student.
-    printf("Enter the first name and 13 test results for the five students:\n");
-
     for (int i = 0; i < 5; i++)
     {
         // Reads the names of the students
